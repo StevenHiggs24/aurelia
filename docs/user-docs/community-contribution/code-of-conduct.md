@@ -1,5 +1,5 @@
 ---
-description: Our mutual agreement on proper behavior within the Aurelia community.
+description: Our mutual agreement regarding proper behavior within the Aurelia community.
 ---
 
 # Code of Conduct
@@ -10,7 +10,7 @@ Communication through any channels under the control of Aurelia must always be c
 
 We promise to extend courtesy and respect to everyone involved in this project. We expect anyone contributing to Aurelia to do the same.
 
-If any member of the community violates this code of conduct, the maintainers of Aurelia may take action as deemed appropriate.
+If any member of the community violates this code of conduct, the maintainers of Aurelia may take any action deemed appropriate.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at conduct@bluespire.com.
 
